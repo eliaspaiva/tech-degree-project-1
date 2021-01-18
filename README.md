@@ -1,2 +1,3 @@
-# tech-degree-project-1
- Tech Degree Project 1
+# tech_degree_projects
+
+Team Treehouse - Front-End - Tech Degree Project 1
